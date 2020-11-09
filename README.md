@@ -10,9 +10,9 @@ SW Expert Academy, 백준, ㅇㅇㅇ 등의 문제를 풀어봤다.
 #### SWEA
 
 * milionare_front.cpp
-  * 앞에서부터 최고점인 날짜를 탐색
+    * 앞에서부터 최고점인 날짜를 탐색
 
 * milionare_back.cpp
-  * 뒤에서부터 최고점인 날짜를 탐색
+    * 뒤에서부터 최고점인 날짜를 탐색
 
 
