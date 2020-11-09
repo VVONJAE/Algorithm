@@ -1,6 +1,6 @@
 # algorithm
 알고리즘 공부.
-SW Expert Academy문제를 풀어봤다.
+SW Expert Academy, 백준, ㅇㅇㅇ 등의 문제를 풀어봤다.
 
 * input.cpp
 //처음 알고리즘 입출력을 해봄.
