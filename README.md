@@ -3,7 +3,7 @@
 SW Expert Academy, 백준, ㅇㅇㅇ 등의 문제를 풀어봤다.
 
 * input.cpp
- *  처음 알고리즘 입출력을 해봄.
+     * 처음 알고리즘 입출력을 해봄.
 
 
 ### [백만장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc)
